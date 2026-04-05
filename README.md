@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Aykut Aparı! 👋
 
-<!--
-**Apariaykut/Apariaykut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Aspiring Cyber Security Analyst | Blue Team & SOC Enthusiast
 
-Here are some ideas to get you started:
+I am a dedicated professional making a **strategic career transition** into the world of Cybersecurity. With a background in a different industry, I bring a unique perspective, a strong work ethic, and a passion for defending digital assets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am deep-diving into **Blue Team operations** and **SOC (Security Operations Center)** methodologies to protect and monitor modern infrastructures.
+
+---
+
+### 🚀 About Me
+- 🔭 **Focus:** Learning the art of Threat Detection and Incident Response.
+- 🎓 **Education:** Actively pursuing the **SOC Level 2 Path** on TryHackMe.
+- 🔄 **Career Pivot:** Successfully transitioning from my previous career to become a dedicated security professional.
+- ⚡ **Goal:** To join a SOC team where I can apply my analytical skills to identify and mitigate cyber threats.
+
+---
+
+### 🛠️ Technical Learning Path
+I am currently building my skills in the following areas:
+
+* **Security Operations:** Monitoring, Log Analysis, and SIEM basics.
+* **Threat Hunting:** Proactive searching for malicious activities (MITRE ATT&CK, Pyramid of Pain).
+* **Network Security:** Traffic analysis and packet inspection (Wireshark, Brim).
+* **Endpoint Defense:** Investigating Windows/Linux artifacts.
+
+---
+
+### 📈 Current Projects & Studies
+* [**Threat Hunting Introduction**](./Threat-Hunting-Report.md): My first analytical report documenting proactive defense strategies.
+* **TryHackMe Labs:** Consistently solving real-world scenarios to sharpen my practical skills.
+
+---
+
+### 📫 Connect with me:
+[**LinkedIn**](www.linkedin.com/in/aykut-aparı-266966176) | [**TryHackMe Profile**](https://tryhackme.com/p/APARI)
+
+*"The best defense is a proactive offense. Constant learning is the only way to stay ahead."*

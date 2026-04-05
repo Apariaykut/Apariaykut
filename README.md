@@ -1,6 +1,6 @@
 # Hi there, I'm Aykut Aparı! 👋
 
-### 🛡️ Aspiring Cyber Security Analyst | Blue Team & SOC Enthusiast
+### 🛡️ Cyber Security Analyst | Blue Team & SOC Enthusiast
 
 I am a dedicated professional making a **strategic career transition** into the world of Cybersecurity. With a background in a different industry, I bring a unique perspective, a strong work ethic, and a passion for defending digital assets.
 
@@ -27,7 +27,7 @@ I am currently building my skills in the following areas:
 ---
 
 ### 📈 Current Projects & Studies
-* [**Threat Hunting Introduction**](./Threat-Hunting-Report.md): My first analytical report documenting proactive defense strategies.
+* [**Threat Hunting Fundamentals**](./Cyber-Security-Projects/Threat-Hunting-Fundamentals/readME.md): My first analytical report documenting proactive defense strategies.
 * **TryHackMe Labs:** Consistently solving real-world scenarios to sharpen my practical skills.
 
 ---

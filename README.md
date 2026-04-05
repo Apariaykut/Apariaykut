@@ -33,6 +33,6 @@ I am currently building my skills in the following areas:
 ---
 
 ### 📫 Connect with me:
-[**LinkedIn**](www.linkedin.com/in/aykut-aparı-266966176) | [**TryHackMe Profile**](https://tryhackme.com/p/APARI)
+[**LinkedIn**](https://linkedin.com/in/aykut-aparı-266966176) | [**TryHackMe Profile**](https://tryhackme.com/p/APARI)
 
 *"The best defense is a proactive offense. Constant learning is the only way to stay ahead."*

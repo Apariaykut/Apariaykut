@@ -27,7 +27,7 @@ I am currently building my skills in the following areas:
 ---
 
 ### 📈 Current Projects & Studies
-* [**Threat Hunting Fundamentals**](./Cyber-Security-Projects/Threat-Hunting-Fundamentals/readME.md): My first analytical report documenting proactive defense strategies.
+* [**Threat Hunting Fundamentals**](https://github.com/Apariaykut/Cyber-Security-Projects/blob/main/Threat-Hunting-Fundamentals/readME.md): My first analytical report documenting proactive defense strategies.
 * **TryHackMe Labs:** Consistently solving real-world scenarios to sharpen my practical skills.
 
 ---
